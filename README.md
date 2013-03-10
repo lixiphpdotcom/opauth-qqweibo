@@ -26,7 +26,7 @@ Required parameters:
 
 ```php
 <?php
-'QQ' => array(
+'QQWeibo' => array(
 	'key' => 'YOUR APP KEY',
 	'secret' => 'YOUR APP SECRET'
 )
