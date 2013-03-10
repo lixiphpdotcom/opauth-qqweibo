@@ -13,8 +13,12 @@ Getting started
    cd path_to_opauth/Strategy
    git clone https://github.com/lixiphpdotcom/opauth-qq.git QQ
    ```
-2. Create QQ application at http://connect.qq.com
+2. Create QQ zone application at http://connect.qq.com
    - It is a web application
+	 - Callback: http://path_to_opauth/qq_callback
+	 Or
+	 Create QQ Weibo application at http://dev.open.t.qq.com/
+	 - It is a web application
 	 - Callback: http://path_to_opauth/qq_callback
 
 3. Configure Opauth-QQ Weibo/Qzone strategy with `key` and `secret`.
