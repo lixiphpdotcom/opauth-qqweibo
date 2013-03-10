@@ -9,7 +9,7 @@ Getting started
 1. Install Opauth-QQWeibo:
    ```bash
    cd path_to_opauth/Strategy
-   git clone https://github.com/lixiphpdotcom/opauth-qqweibo.git QQ
+   git clone https://github.com/lixiphpdotcom/opauth-qqweibo.git QQWeibo
    ```
 2. Create QQ Weibo application at http://open.t.qq.com/
 	 - It is a web application
