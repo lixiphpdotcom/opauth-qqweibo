@@ -1,4 +1,4 @@
-opauth-qq
+opauth-qqweibo
 =========
 Opauth strategy for QQ Weibo authentication.
 
